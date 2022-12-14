@@ -5,7 +5,7 @@
  * Description: prints the 9 times table
  * Return: void
  */
- void times_table(void)
+void times_table(void)
 {
 	int row, column, product, tens, ones;
 
