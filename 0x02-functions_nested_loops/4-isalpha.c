@@ -17,7 +17,7 @@ int _isalpha(int c)
 	{
 		for (icap_alphabet = 'A'; icap_alphabet <= 'Z'; icap_alphabet++)
 		{
-			if ((cap_alphabet == c) || (icap_alphabet == C))
+			if ((cap_alphabet == c) || (icap_alphabet == c))
 			{
 				return(1);
 			}
