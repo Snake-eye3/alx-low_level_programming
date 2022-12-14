@@ -19,9 +19,9 @@ int _isalpha(int c)
 		{
 			if ((cap_alphabet == c) || (icap_alphabet == c))
 			{
-				return(1);
+				return (1);
 			}
 		}
 	}
-	return(0);
+	return (0);
 }
